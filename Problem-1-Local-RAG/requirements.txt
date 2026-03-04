@@ -1,0 +1,7 @@
+langchain
+langchain-ollama
+langchain-chroma
+langchain_core
+langchain_experimental
+os
+time
