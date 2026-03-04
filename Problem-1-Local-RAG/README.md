@@ -230,13 +230,13 @@ Answer:
 
 ```
 
-What is Wyrd's mission?
+What are the 7 Chapters in Act 1 Our Past ?
 
 ```
 
 **Result**
 
-![Mission Query](results/mission_query.png)
+![Chapters](results/Chapters.png)
 
 ---
 
@@ -246,13 +246,13 @@ What is Wyrd's mission?
 
 ```
 
-What are the character profiles mentioned in "How We Speak"?
+What are the Six Sins of Modern Marketing in brief ?
 
 ```
 
 **Result**
 
-![Character Profiles](results/character_profile_query.png)
+![Six Sins of Marketing](results/SixSinsMarketing.png)
 
 ---
 
