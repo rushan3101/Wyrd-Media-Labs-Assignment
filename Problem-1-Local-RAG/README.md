@@ -44,6 +44,19 @@ Generated Answer
 ```
 
 ---
+# Project Structure
+
+```
+Problem-1-Local-RAG
+│
+├── data_loader.py      # Loads markdown files, parses them into structured sections, and prepares document chunks for the RAG pipeline.
+├── vector.py           # Creates embeddings, stores them in ChromaDB, and initializes the retriever for semantic search.
+├── main.py             # Runs the RAG workflow by accepting user queries, retrieving relevant context, and generating answers using the LLM.
+├── requirements.txt    # Lists all Python dependencies required to run the project.
+├── results/            # Contains screenshots of example queries and model responses.
+└── README.md           # Documentation explaining the project, pipeline, and usage.
+```
+---
 
 # Data Extraction
 
@@ -262,13 +275,13 @@ What are the Six Sins of Modern Marketing in brief ?
 
 ```
 
-What happens in Chapter 1 of The Journey?
+What is Wyrd ?
 
 ```
 
 **Result**
 
-![Chapter Query](results/chapter_query.png)
+![What is Wyrd](results/WhatIsWyrd.png)
 
 ---
 
